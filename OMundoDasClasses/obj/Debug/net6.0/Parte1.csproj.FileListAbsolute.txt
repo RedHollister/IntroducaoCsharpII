@@ -1,0 +1,15 @@
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\bin\Debug\net6.0\Parte1.exe
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\bin\Debug\net6.0\Parte1.deps.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\bin\Debug\net6.0\Parte1.runtimeconfig.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\bin\Debug\net6.0\Parte1.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\bin\Debug\net6.0\Parte1.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.AssemblyInfo.cs
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\refint\Parte1.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\Parte1.genruntimeconfig.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos Introdução ao C# I\OMundoDasClasses\OMundoDasClasses\obj\Debug\net6.0\ref\Parte1.dll
