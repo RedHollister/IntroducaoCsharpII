@@ -15,6 +15,8 @@ namespace Parte2
 
             Animal a = new Gato("Felix", 5); //Polimorfismo: O gato também é um animal!
 
+            
+
             ExibeAnimal(c); //recebe argumento do tipo cachorro
             ExibeAnimal(g); //recebe argumento do tipo gato
             ExibeAnimal(a); //recebe argumento do tipo animal
@@ -24,6 +26,8 @@ namespace Parte2
         {
             Console.WriteLine($"Nome: {animal.Nome}");
             Console.WriteLine($"Idade: {animal.Idade}");
+            Console.WriteLine($"Som emitido: {animal.SomEmitido}");
+            Console.WriteLine($"Locomoção: {animal.Locomocao}");
         }
         
     }

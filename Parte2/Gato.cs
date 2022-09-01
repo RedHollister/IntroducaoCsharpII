@@ -11,5 +11,9 @@ namespace Parte2
         public Gato(string nome, int idade) : base(nome, idade) //base(nome,idade) invoca o construtor da classe Animal
         {
         }
+
+        public override Som SomEmitido => Som.Miado;
+
+        public override string Locomocao => "Está pulando";
     }
 }

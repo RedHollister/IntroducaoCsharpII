@@ -11,6 +11,8 @@ namespace Parte2
         public Cachorro(string nome, int idade) : base(nome, idade)
         {
         }
+
+        public override Som SomEmitido => Som.Latido;
     }
 
 }
